@@ -1,0 +1,82 @@
+
+.setup-picture {
+    position: fixed;
+    width: 60%;
+    height: 40%;
+    top: 40%;
+    left: 0%;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    background-color: white;
+    color: #919191;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 30px;
+    padding: 20px 20px;
+    border: 3px solid #9daccb;
+    margin-top: 5px !important;
+
+
+}
+
+.setup-picture form {
+    margin-top: 20px !important;
+    width: 80%;
+    margin: auto;
+}
+.setup-picture form img {
+    width: 400px;
+    height: 350px;
+    display: none;
+    margin: auto;
+}
+.setup-picture form .picture {
+    transition: 0.3s;
+    position: relative;
+    text-align: center;
+    padding: 10px 30px;
+    border: 3px dashed #ddd;
+    background-color: #f1f1f1;
+    border-radius: 5px;
+}
+.setup-picture form .picture:hover {
+    background-color: #263238;
+    color: #aaa;
+    border: 3px solid #263238;
+}
+.setup-picture form .picture:hover i {
+    color: #aaa;
+}
+.setup-picture form .picture input {
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.setup-picture form .picture h3, .setup-picture form .picture i {
+    float: left;
+}
+.setup-picture form .picture i {
+    font-size: 2.5em;
+    margin-right: 15px;
+    color: #263238;
+}
+.setup-picture form .picture h3 {
+    margin-top: 10px;
+    font-weight: 100;
+}
+.setup-picture form button {
+    font-family: 'PT Sans', sans-serif;
+    border: 2px solid #3498db;
+    padding: 10px 25px;
+    color: #3498db;
+    background-color: transparent;
+    font-weight: bold;
+    border-radius: 50px;
+}
+.setup-picture form button:hover {
+    background-color: rgba(52, 152, 219, 0.2);
+}
+

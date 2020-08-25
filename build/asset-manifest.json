@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6a139c5a.chunk.css",
+    "main.js": "/static/js/main.ad1f6922.chunk.js",
+    "main.js.map": "/static/js/main.ad1f6922.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4d51690e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4d51690e.js.map",
+    "static/js/2.fa5ee538.chunk.js": "/static/js/2.fa5ee538.chunk.js",
+    "static/js/2.fa5ee538.chunk.js.map": "/static/js/2.fa5ee538.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.187e8920a057e0b9d5db84e0a6f57af0.js": "/precache-manifest.187e8920a057e0b9d5db84e0a6f57af0.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.6a139c5a.chunk.css.map": "/static/css/main.6a139c5a.chunk.css.map",
+    "static/js/2.fa5ee538.chunk.js.LICENSE.txt": "/static/js/2.fa5ee538.chunk.js.LICENSE.txt",
+    "static/media/propose.jpg": "/static/media/propose.3da26c89.jpg",
+    "static/media/zohar.jpg": "/static/media/zohar.69e8880a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d51690e.js",
+    "static/js/2.fa5ee538.chunk.js",
+    "static/css/main.6a139c5a.chunk.css",
+    "static/js/main.ad1f6922.chunk.js"
+  ]
+}
